@@ -1,3 +1,3 @@
-const hello = "Buongiorno Emilie";
+const hello = "Buongiorno";
 
 export default hello;
